@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By MR2K CYBER TECH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Botname-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --JAVA-BOY-MR2K-MD",
     "stop": "pm2 stop JAVA-BOY-MR2K-MD",
     "restart": "pm2 restart JAVA-BOY-MR2K-MD"
   },
