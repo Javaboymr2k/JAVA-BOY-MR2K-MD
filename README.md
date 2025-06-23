@@ -43,13 +43,13 @@
 
 <p align="center">
   <a href="https://railway.app?referralCode=AqkNn4">
-    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🇿🇲_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
   </a>
 </p>
 
 <!-- Referral Code -->
 <p align="center">
-  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
+  <b>THIS BOT WAS MADE IN ZAMBIA BY MR2K CYBER TECH
 </p>
 
 <!-- Glowing Footer -->
@@ -58,7 +58,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BWM+XMD+Quantum+Edition+by+Ibrahim+Adams;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BJAVA+BOY+MR2K+MD+Edition+by+MR2K+CYBER+TECH;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
