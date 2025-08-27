@@ -26,7 +26,7 @@
 
 ## JAVA-BOY-MR2K-MD Deployment Methods
 ---
-1.  **Fork Repo First, [CLICK HERE]( (A MUST) and Star ⭐ Repository for Courage.**
+1.  **Fork Repo First, [CLICK HERE](https://github.com/Javaboymr2k/JAVA-BOY-MR2K-MD)  (A MUST) and Star ⭐ Repository for Courage.**
 2.  **Get SESSION ID BY [PAIRING CODE](** 
 3. **Deploy on [HEROKU]** coming soon
 3. **Deploy on [RENDER](https://dashboard.render.com/signup)**
