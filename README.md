@@ -1,7 +1,7 @@
 # JAVA-BOY-MR2K-MD
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡🇿🇲 A simple WhatsApp User Bot Coded By 𝗠𝗥𝟮𝗞 𝗖𝗬𝗕𝗘𝗥 𝗧𝗘𝗖𝗛 🇿🇲⚡</u>
+<u>⚡🇿🇲 A WhatsApp Bot Coded By 𝗠𝗥𝟮𝗞 𝗖𝗬𝗕𝗘𝗥 𝗧𝗘𝗖𝗛 🇿🇲⚡</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/pnekca.jpeg"/>       
@@ -35,7 +35,7 @@
 3. **Deploy on [BOT HOSTING PANEL(DISCORD)](https://bot-hosting.net/?aff=1251693529084723300)**
 3. **Deploy on [KATBUMP PANEL(DISCORD)](https://dashboard.katabump.com/auth/login#1ae56c)**
 8. **You can visit whatsapp channel [BY CLICKING HERE](https://whatsapp.com/channel/0029VbBAKMm9Bb61dm5DUV0V) for more**
-9. **All Tutorials [Here](https://www.youtube.com/@DavidCyril_TECH)**
+9. **All Tutorials [Here](https://www.youtube.com/@JavaboyMr2kk)**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
